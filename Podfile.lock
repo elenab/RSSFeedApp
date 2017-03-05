@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.3.0)
+  - FeedKit (5.1.0)
+  - Kingfisher (3.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - FeedKit (~> 5.0)
+  - Kingfisher (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  FeedKit: e692fb1e155ca829d0458fc6ce2f593de1b194f8
+  Kingfisher: 7c62087039d93d26c54c8dd9b0b588d2ce55cef6
+
+PODFILE CHECKSUM: b161ae501565bcd68bd9c144e0ee335c3910acff
+
+COCOAPODS: 1.2.0
